@@ -1,7 +1,7 @@
 # 👨‍💻 Gabriel da Maia
 
 🎓 Estudante de **Engenharia da Computação**  
-🔧 Analista na área de suporte técnico | Entusiasta de projetos práticos  
+🔧 Analista na área de suporte técnico na Saipos 🐿| Entusiasta de projetos práticos  
 💡 Explorando Infra, Eletrônica e desenvolvimento  
 
 ---
